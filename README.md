@@ -1,4 +1,6 @@
-paper title (A new feature extraction approach of medical image based on data distribution skew)
+Neuroscience Informatics Journal Elsevier publisher
+The auther: Farag Kuwil
+Paper title (A new feature extraction approach of medical image based on data distribution skew) 
 The article link:
 https://doi.org/10.1016/j.neuri.2022.100097
 
